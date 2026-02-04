@@ -1,0 +1,15 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "semi": true,
+  "printWidth": 80,
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "jsxSingleQuote": false,
+  "overrides": [
+    {
+      "files": ["**/.*rc", "**/*.json"],
+      "options": { "parser": "json" }
+    }
+  ]
+}
